@@ -34,7 +34,8 @@ Selam dostlar burada yapmış olduğum projelerin listesini ve linklerini bulabi
 <summary>Bilgilendirici Makalelerim</summary>
 <ul>
 
-<li><a href="https://github.com/kursatk52/temel-kriptografi">temel-kriptografi</a> : Kriptografi hakkında temel bilgiler; AES,DES,RSA gibi algoritmaların detaylı incelenmesini içeren bir makale.</li>
+<li><a href="https://github.com/kursatk52/temel-kriptografi">temel-kriptografi</a> : Kriptografi hakkında temel bilgiler; AES,DES,RSA gibi algoritmaların detaylı incelenmesini içeren bir makale.</br><img src="https://visitor-badge.laobi.icu/badge?page_id=kursatk52.temel-kriptografi" alt="visitor-badge" style="width:100px;"/>
+</li>
 
 </ul>
 
