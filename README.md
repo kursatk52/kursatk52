@@ -24,7 +24,7 @@ Selam dostlar burada yapmış olduğum projelerin listesini ve linklerini bulabi
 <summary>Yazdığım Programlarım</summary>
 <ul>
 
-<li><a href="https://github.com/kursatk52/insta-phishing">insta-phishing</a> : Instagram Social Engineering Tool</li>
+<li><a href="https://github.com/kursatk52/insta-phishing">insta-phishing</a> : Instagram Social Engineering Tool </br> <img src="https://visitor-badge.laobi.icu/badge?page_id=kursatk52.insta-phishing" alt="visitor-badge" style="width:100px;"/></li>
 
 </ul>
 
