@@ -37,6 +37,9 @@ Selam dostlar burada yapmış olduğum projelerin listesini ve linklerini bulabi
 <li><a href="https://github.com/kursatk52/temel-kriptografi">temel-kriptografi</a> : Kriptografi hakkında temel bilgiler; AES,DES,RSA gibi algoritmaların detaylı incelenmesini içeren bir makale.</br><img src="https://visitor-badge.laobi.icu/badge?page_id=kursatk52.temel-kriptografi" alt="visitor-badge" style="width:100px;"/>
 </li>
 
+<li><a href="https://github.com/kursatk52/android-analiz-araclari">android-analiz-araclari</a> : Android reverse engineering için temel araçların listelendiği makale. </br><img src="https://visitor-badge.laobi.icu/badge?page_id=kursatk52.android-analiz-araclari" alt="visitor-badge" style="width:100px;"/>
+</li>
+
 </ul>
 
 </details>
