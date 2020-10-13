@@ -12,6 +12,9 @@ Selam dostlar burada yapmış olduğum projelerin listesini ve linklerini bulabi
 <a href="https://www.linkedin.com/in/kursatk52/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kursat%20Korkmaz-blue?style=flat-square&logo=linkedin">
 </a>
 
+<a href="https://medium.com/@kursatk52/"><img alt="Medium" src="https://img.shields.io/badge/Medium-@kursatk52-blue?style=flat-square&logo=Medium">
+</a>
+
 <a href="https://www.instagram.com/kursatk52/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kursatk52-blue?style=flat-square&logo=instagram">
 </a>
 
