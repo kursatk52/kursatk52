@@ -43,7 +43,7 @@ Selam dostlar burada yapmış olduğum projelerin listesini ve linklerini bulabi
 <li><a href="https://github.com/kursatk52/android-analiz-araclari">android-analiz-araclari</a> : Android reverse engineering için temel araçların listelendiği makale. </br><img src="https://visitor-badge.laobi.icu/badge?page_id=kursatk52.android-analiz-araclari" alt="visitor-badge" style="width:100px;"/>
 </li>
 
-<li><a href="https://medium.com/@kursatk52/1-xxe-injection-portswigger-t%C3%BCrk%C3%A7e-%C3%A7eviri-9a8285ec03d">#1 Portswigger XXE Zafiyeti Türkçe Çeviri</a> : Portswigger'da paylaşılmış olan XXE açığını anlatan materyalin türkçe çevirisi.</br>
+<li><a href="https://medium.com/@kursatk52/1-xxe-injection-portswigger-t%C3%BCrk%C3%A7e-%C3%A7eviri-9a8285ec03d">Portswigger XXE Zafiyeti Türkçe Çeviri</a> : Portswigger'da paylaşılmış olan XXE açığını anlatan materyalin türkçe çevirisi.</br>
 </li>
 
 </ul>
