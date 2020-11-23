@@ -23,18 +23,19 @@ Selam dostlar burada yapmış olduğum projelerin listesini ve linklerini bulabi
 </p>
 
 ## Projeler ve Linkler
-<details>
-<summary>Yazdığım Programlarım</summary>
+
+<h4>Yazdığım Programlarım</h4>
 <ul>
 
 <li><a href="https://github.com/kursatk52/insta-phishing">insta-phishing</a> : Instagram Social Engineering Tool </br> <img src="https://visitor-badge.laobi.icu/badge?page_id=kursatk52.insta-phishing" alt="visitor-badge" style="width:100px;"/></li>
 
 </ul>
 
-</details>
 </br>
-<details>
-<summary>Bilgilendirici Makalelerim</summary>
+
+<h4>Bilgilendirici Makalelerim</h4>
+
+
 <ul>
 
 <li><a href="https://github.com/kursatk52/temel-kriptografi">temel-kriptografi</a> : Kriptografi hakkında temel bilgiler; AES,DES,RSA gibi algoritmaların detaylı incelenmesini içeren bir makale.</br><img src="https://visitor-badge.laobi.icu/badge?page_id=kursatk52.temel-kriptografi" alt="visitor-badge" style="width:100px;"/>
@@ -68,8 +69,6 @@ Selam dostlar burada yapmış olduğum projelerin listesini ve linklerini bulabi
 </ul>
 
 
-
-</details>
 
 
 
