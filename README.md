@@ -60,7 +60,7 @@ Selam dostlar burada yapmış olduğum projelerin listesini ve linklerini bulabi
 </li>
 
 </br>
-<li><a href="https://kursatk52.medium.com/os-command-injecion-portswigger-t%C3%BCrk%C3%A7e-%C3%A7eviri-c2f41396b213">OS Command Injection</a> : Portswigger'da paylaşılmış olan OS Command Injection zafiyetini anlatan yazının türkçe çevirisi. </br>
+<li><a href="https://kursatk52.medium.com/os-command-injecion-portswigger-t%C3%BCrk%C3%A7e-%C3%A7eviri-c2f41396b213">Portswigger OS Command Injection Türkçe Çeviri</a> : Portswigger'da paylaşılmış olan OS Command Injection zafiyetini anlatan yazının türkçe çevirisi. </br>
 </li>
 
 
